@@ -1,9 +1,0 @@
-{
-  "name": "vr-casestudy",
-  "version": "0.0.1",
-  "main": [],
-  "dependencies": {
-    "aframe": "0.7"
-  },
-  "ignore": {}
-}
